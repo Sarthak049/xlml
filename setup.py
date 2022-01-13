@@ -4,14 +4,14 @@ from distutils.core import setup
 setup(
   name = 'XLML',
   packages = ['XLML'],
-  version = '0.1.0',
+  version = '0.1.2',
   license='MIT',
   description = 'Easy Excel to HTML library for Python (3.x).',
-  author = 'Sarthak',
+  author = 'Sarthak Jain',
   author_email = 'sarthakjain10.11@gmail.com',
   url = 'https://github.com/Sarthak049/htmxl',
-  download_url = '',
-  keywords = ['Excel', 'CSV', 'HTML', 'HTMXL'],
+  download_url = 'https://github.com/Sarthak049/xlml/archive/refs/tags/xlml-0.1.2.tar.gz',
+  keywords = ['Excel', 'CSV', 'HTML', 'XLML'],
   install_requires=[],
   classifiers=[
     'Development Status :: 3 - Alpha',
