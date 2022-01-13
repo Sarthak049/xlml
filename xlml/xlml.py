@@ -1,4 +1,4 @@
-class HTMXL:
+class XLML:
     def __init__(self):
         pass
     
